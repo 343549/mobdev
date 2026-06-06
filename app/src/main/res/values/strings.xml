@@ -1,3 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">mobdev</string>
+    <string name="app_name">Chat</string>
+    <string name="label_login">Логин</string>
+    <string name="label_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_out">Выйти</string>
+    <string name="action_send">Отправить</string>
+    <string name="action_back">Назад</string>
+    <string name="action_close">Закрыть</string>
+    <string name="hint_message">Сообщение…</string>
+    <string name="title_channels">Чаты</string>
+    <string name="title_select_chat">Выберите чат</string>
+    <string name="error_invalid_credentials">Неверный логин или пароль</string>
+    <string name="error_unauthorized">Сессия истекла. Войдите снова.</string>
+    <string name="error_network">Ошибка сети. Попробуйте позже.</string>
+    <string name="error_unknown">Неизвестная ошибка: %1$s</string>
+    <string name="error_empty_message">Нельзя отправить пустое сообщение</string>
+    <string name="label_loading">Загрузка…</string>
+    <string name="label_load_more">Загрузить ещё</string>
+    <string name="content_description_image">Изображение</string>
+    <string name="content_description_full_image">Изображение на весь экран</string>
 </resources>
